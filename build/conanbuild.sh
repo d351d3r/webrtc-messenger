@@ -1,0 +1,1 @@
+. "/home/stdcapybara/project/cpp/webrtc-messenger/build/conanbuildenv-release-x86_64.sh"

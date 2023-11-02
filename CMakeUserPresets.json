@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/stdcapybara/project/cpp/webrtc-messenger/build/CMakePresets.json"
+    ]
+}
